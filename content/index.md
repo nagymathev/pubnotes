@@ -10,6 +10,8 @@ test
 tsetse
 s
 
+**Bold text hello** now there comes some _italic text_.
+
 ```py
 from something import *
 
