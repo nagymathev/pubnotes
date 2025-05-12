@@ -6,6 +6,6 @@ Recently I came across a [video](https://www.youtube.com/watch?v=-ensdxFTLGk) by
 PS: It's really _fucking_ hard and exhausting—at least for now as I just started. I was laying on the floor like a dead fish during rests with my lungs fully dead. Anyways, as I said previously, below this little foreword all I'll have is a table listing the days with the time it took me each day and the number of rests it took to complete 100 reps.
 
 
-| Day   | Time     | Rests |
-| ----- | -------- | ----- |
-| Day 1 | 41:49.75 | ~6-7  |
+| Day   | Time     | Rests | Additional Notes                                                                   |
+| ----- | -------- | ----- | ---------------------------------------------------------------------------------- |
+| Day 1 | 41:49.75 | ~6-7  | I really wanted to beat the 40min mark, but don't fret, there's always a next day. |
