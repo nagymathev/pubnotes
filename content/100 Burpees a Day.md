@@ -9,3 +9,4 @@ PS: It's really _fucking_ hard and exhausting—at least for now as I just start
 | Day   | Time     | Rests | Additional Notes                                                                   |
 | ----- | -------- | ----- | ---------------------------------------------------------------------------------- |
 | Day 1 | 41:49.75 | ~6-7  | I really wanted to beat the 40min mark, but don't fret, there's always a next day. |
+| Day 2 | N/A      | N/A   | To my surprise I woke up with a sore lower back.                                   |
